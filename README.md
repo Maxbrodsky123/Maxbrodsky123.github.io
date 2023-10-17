@@ -7,3 +7,5 @@ Description
 ## Steelers Franchise History
 Description
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C7uqa4260-58nEOuD2C6CzeJdip9IyqGQ-QVHF7suLU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
+https://docs.google.com/spreadsheets/d/1qqu5vq3hFaQFCqIjz7M6PA_tV-MKIvRq6VGBMnPakvo/edit?pli=1#gid=0
