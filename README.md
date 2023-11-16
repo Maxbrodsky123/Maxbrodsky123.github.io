@@ -4,7 +4,7 @@
 Max's awesome self-into
 
 ## Infographic
-Description + data url
+This infographic shows the states where our students come from. The data is accessible on Lehigh University's [OIRSA website](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
 ![infographic](https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/blob/main/Lehigh%20Infographic.png?raw=true)
 
 ## LeLaf game
