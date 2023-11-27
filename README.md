@@ -41,7 +41,7 @@ https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/blob/main/NFL_Player_Pa
 
 ## Football Stadium Map
 In this map it shows 5 NFL stadiums. These include the stadiums of the Giants, Eagles, Steelers, Browns and Bengals.
-https://www.google.com/maps/d/edit?mid=149FfpExAOdOPAs_5smDw2O2LAdphVk4&ll=44.121731563790775%2C-80.64420949701415&z=5
+<iframe src="https://www.google.com/maps/d/embed?mid=149FfpExAOdOPAs_5smDw2O2LAdphVk4&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## NFL passing yards/Touchdowns Week 10
 This is a chart shwoing 11 different quarterbacks through week 10 of the NFL season, and how many yards and touchdowns they have. These players were chosen as they are some of the most outstanding players in the league that are leaders in both categories.
