@@ -1,7 +1,7 @@
 # Maxbrodsky123.github.io
 
 ## Self-introduction
-Hello my name is Max Brodsky and this is a portfolio of work I did in my data journalism class. I am from Greenwich Connecticut and some of my hobbies include watching sports such as football and basketball as well as video games. My favorite teams to watch are the Pittsburgh Steelers and New York Knicks. I hope you enjoy the page!
+Hello my name is Max Brodsky and this is a portfolio of work I did in my data journalism class. I am a student at Lehigh University studying Journalism hoping to pursue a career in sports journalism. I am from Greenwich Connecticut and some of my hobbies include watching sports such as football and basketball as well as video games. My favorite teams to watch are the Pittsburgh Steelers and New York Knicks. I hope you enjoy the page!
 
 ## Infographic
 This infographic shows the states where our students come from. The data is accessible on Lehigh University's [OIRSA website](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
