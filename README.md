@@ -51,6 +51,7 @@ https://www.nfl.com/stats/player-stats/<div class='tableauPlaceholder' id='viz17
 
 ## Bar/Column Chart
 This is a bar chart showing the NFL passing yards leaders through week 6. The quarterback who has the most yards is Vikings Kirk Cousins, second is Rams Matt Stafford, Third is Texans CJ Stroud, Fourth is Lions Jared Goff and fifth is Chiefs Pat Mahomes.
+https://www.nfl.com/stats/player-stats/
 ![Chart Builder](https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/assets/145883945/bb4426be-7dbe-4078-b590-c4cdd5c5a588)
 
 
