@@ -12,7 +12,7 @@ This is a timeline showing the history of the LeLaf rivalry.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ubd5YZ0Gc5IiaDRkEEUb13iz2HbOteXDyY0xMBjNHyQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Steelers Franchise History
-Description
+This is a timeline showing the history of the Pittsburgh Steelers football organization. The Steelers are one of the most succesful franchises in football, being founded in 1933 and going on to win the most super bowls to present day with 6. Their first super bowl victory was in 1975 and most recent was 2009.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C7uqa4260-58nEOuD2C6CzeJdip9IyqGQ-QVHF7suLU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Project Title
@@ -40,7 +40,7 @@ https://www.pro-football-reference.com/leaders/pass_yds_career.htm
 https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/blob/main/NFL_Player_Passing_Yards_From_2011-2021_Big_Ben_TB12_Rodgers_chartbuilder%20(2).png
 
 ## Football Stadium Map
-In this map it shows 5 NFL stadiums. These include the stadiums of the Giants, Eagles, Steelers, Browns and Bengals.
+In this map it shows 5 NFL stadiums. These include the stadiums of the Giants, Eagles, Steelers, Browns and Bengals. These are only a few franchises in the 32 team National Football League. The only sports played in these stadiums are football.
 <iframe src="https://www.google.com/maps/d/embed?mid=149FfpExAOdOPAs_5smDw2O2LAdphVk4&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## NFL passing yards/Touchdowns Week 10
