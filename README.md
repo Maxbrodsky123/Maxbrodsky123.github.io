@@ -37,7 +37,7 @@ https://www.canva.com/design/DAFwDDdydTM/xglsK2k5aspJf9I74UFSmQ/edit?utm_content
 ## NFL player passing yards from 2011-2021
 This is a line chart showing 3 hall of fame quarterbacks passing yards from 2011 to 2021. The players are Ben Roethlisberger from the Pittsburgh Steelers, Tom Brady from the New England Patriots and Tampa Bay Bucaneers and Aaron Rodgers from the Green Bay Packers and New York Jets.
 https://www.pro-football-reference.com/leaders/pass_yds_career.htm
-![Chart Builder](NFL_Player_Passing_Yards_From_2011-2021_Big_Ben_TB12_Rodgers_chartbuilder)
+![Chart Builder](images/NFL_Player_Passing_Yards_From_2011-2021_Big_Ben_TB12_Rodgers_chartbuilder)
 
 ## Football Stadium Map
 In this map it shows 5 NFL stadiums. These include the stadiums of the Giants, Eagles, Steelers, Browns and Bengals. These are only a few franchises in the 32 team National Football League. The only sports played in these stadiums are football.
