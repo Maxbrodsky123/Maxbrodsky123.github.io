@@ -17,11 +17,6 @@ This is a timeline showing the history of the LeLaf rivalry.
 This is a timeline showing the history of the Pittsburgh Steelers football organization. The Steelers are one of the most succesful franchises in football, being founded in 1933 and going on to win the most super bowls to present day with 6. Their first super bowl victory was in 1975 and most recent was 2009.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C7uqa4260-58nEOuD2C6CzeJdip9IyqGQ-QVHF7suLU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Project Title
-Project description + data url
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
-https://docs.google.com/spreadsheets/d/1qqu5vq3hFaQFCqIjz7M6PA_tV-MKIvRq6VGBMnPakvo/edit?pli=1#gid=0
-
 ## Party Location Interactive Data Visualization 
 This is a visualization of a survey where Lehigh students answered where they prefer to party. This survey had over 500 responses from Students.
 https://docs.google.com/spreadsheets/d/1M3fvI1f7l4QP_zvlo5YA405N-6oZXp8SA1btxvsUyeI/edit#gid=638165819
@@ -57,7 +52,7 @@ https://www.nfl.com/stats/player-stats/
 ## Infographic
 This is an infographic showing the top 5 passing leaders in the NFL. The infographic is in terms of yards and shows the most up to date information. All of the players are quarterbacks and from different teams.
 https://www.nfl.com/stats/player-stats/
-![canva](src="https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/assets/145883945/ebecd7ed-8240-4d5e-939a-c309faa4ed51">)
+![canva](https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/assets/145883945/ebecd7ed-8240-4d5e-939a-c309faa4ed51)
 
 
 
