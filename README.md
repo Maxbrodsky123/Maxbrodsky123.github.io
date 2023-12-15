@@ -57,6 +57,7 @@ https://www.nfl.com/stats/player-stats/
 ## Infographic
 This is an infographic showing the top 5 passing leaders in the NFL. The infographic is in terms of yards and shows the most up to date information. All of the players are quarterbacks and from different teams.
 https://www.nfl.com/stats/player-stats/
-![canva](https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/files/13651321/White.Blue.Clean.and.Simple.Chronic.Illness.Data.Infographic.pdf)
+![canva](src="https://github.com/Maxbrodsky123/Maxbrodsky123.github.io/assets/145883945/ebecd7ed-8240-4d5e-939a-c309faa4ed51">)
+
 
 
